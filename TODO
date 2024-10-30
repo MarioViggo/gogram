@@ -1,0 +1,34 @@
+criar utils(is_command) [WIP]
+Fazer Updates com Chan
+fazer MakeParam dos outros stucts[WIP]
+Setar webhook feature
+fazer testes [WIP]
+Documentar
+Criar Projeto no Jira
+Setar Definir as tasks dos metodos que não foram implementados
+
+MISSING METHODS:
+sendChatAction
+promoteChatMembers
+unbanChatMember
+sendMediaGroup
+editMessageLiveLocation
+stopMessageLiveLocation
+sendPoll
+sendDice
+getUserProfilePhotos
+getFile
+exportChatIniviteLink
+setChatPhoto
+deleteChatPhoto
+leaveChat
+getChat
+getChatAdministrators
+getChatMembersCount
+getChatMember
+setChatStickerSet
+deleChatStickerSet
+answerCallbackQuery
+setMyCommnds
+getMyCommands
+InlineModeMethos
